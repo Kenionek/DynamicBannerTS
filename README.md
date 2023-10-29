@@ -4,6 +4,7 @@ This is a small code for an Dynamic Banner you can use for TeamSpeak! You can al
 I can use some feedback :)
 
 You need a webserver with php 7x + GD Library extension
+TS3 PHP Framework: https://github.com/planetteamspeak/ts3phpframework
 
 Banner live preview of how it looks like for me:
 <img src="http://tsb.dsnakes.com/banner.php">
