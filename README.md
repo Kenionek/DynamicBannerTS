@@ -5,6 +5,9 @@ I can use some feedback :)
 
 You need a webserver with php 7x + GD Library extension
 
+Banner live preview of how it looks like for me:
+<img src="http://tsb.dsnakes.com/banner.php">
+
 Configuration: 
 
         * create on your rootfolder of your website a new folder for the banner (as exemple Banner-ts)
