@@ -22,7 +22,7 @@ Configuration:
 
         * add your logo to the folder and name it logo.png (you can always change the name/format it in the config (line 58)
 
-just rember to crefit me if you would share this to other people!
+just rember to credit me if you would share this to other people!
 
 Contact info:
 
