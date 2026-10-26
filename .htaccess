@@ -1,0 +1,8 @@
+# Only the banner scripts and images may be fetched from the web.
+<FilesMatch "^(secret|config)(\.example)?\.php$">
+    Require all denied
+</FilesMatch>
+<FilesMatch "\.(md|json|lock|txt)$">
+    Require all denied
+</FilesMatch>
+Options -Indexes
