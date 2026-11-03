@@ -86,6 +86,14 @@ assets/               background, logo and fonts
 src/                  query client, stats cache, drawing, themes, layouts
 ```
 
+## Older version (v1)
+
+v1, the original banner that uses the TS3 PHP Framework, is kept as an archive:
+- branch [`v1`](https://github.com/Kenionek/DynamicBannerTS/tree/v1)
+- tag [`v1.0`](https://github.com/Kenionek/DynamicBannerTS/releases/tag/v1.0), with a ZIP download: [v1.0.zip](https://github.com/Kenionek/DynamicBannerTS/archive/refs/tags/v1.0.zip)
+
+v1 is no longer maintained. Use v2 for new installs.
+
 ## License
 
 Free to use, change and share under the **MIT License** (see `LICENSE`), including on commercial servers. The only condition is to keep the copyright notice. Keeping the small "DynamicBannerTS by Kenionek" credit in the corner of the banner is appreciated too.
